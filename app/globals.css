@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.intro-video {
+    background: url(/imgs/hero-image.webp);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
